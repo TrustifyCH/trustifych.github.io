@@ -39,6 +39,9 @@ Auch die Widgets zum Einbinden auf Webseiten werden weiterentwickelt. Inzwischen
 ## Überarbeitete Infrastruktur
 Mit der Neuentwicklung von Trustify wird die Server-Infrastruktur ebenfalls überarbeitet. Dadurch können wir Fehler und Ausfälle besser identifizieren und schneller darauf reagieren.
 
+## Erweiterung der Testing-Prozesse
+Im Rahmen unserer kontinuierlichen Bemühungen zur Verbesserung der Qualität und Zuverlässigkeit unserer Plattform, legen wir in der kommenden Roadmap besonderen Fokus auf die Erweiterung unserer Testing-Prozesse. Unsere erweiterten Testing-Prozesse umfassen eine umfassende Suite von automatisierten Tests, darunter Unit-Tests, Integrations-Tests, Regressions-Tests und End-to-End-Tests.
+
 ## Q&A
 
 #### Wann wird die neue Version von Trustify verfügbar sein?
